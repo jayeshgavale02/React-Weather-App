@@ -37,7 +37,7 @@ You can view the live demo of the Weather App [here](https://reactjs-weather-app
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-weather-app.git
+   git clone https://github.com/jayeshgavale02/React-Weather-App.git
    cd react-weather-app
 2. Install dependencies:
       ```bash
