@@ -47,3 +47,5 @@ You can view the live demo of the Weather App [here](https://reactjs-weather-app
 3. Start the development server using Vite:
   ```bash
    npm run dev
+4. **Open the application**:
+    - Open your browser and go to `http://localhost:3000` to see the Weather App in action.
