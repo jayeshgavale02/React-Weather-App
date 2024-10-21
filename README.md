@@ -26,7 +26,9 @@ You can view the live demo of the Weather App [here](https://reactjs-weather-app
 3. **Weather Display**: The weather information is dynamically displayed, including:
    - Temperature (in Celsius or Fahrenheit)
    - Humidity
-   - Weather conditions (e.g., sunny, cloudy, etc.)
+   - Weather conditions (cloudy)
+   -Minimum Temperature
+   -Maximum Temperature
 
 ## 🌩️ Installation & Setup
 
