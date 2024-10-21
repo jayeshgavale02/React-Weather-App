@@ -1,0 +1,99 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body{
+  background-color: #00ff455c;
+}
+.container{
+display: flex;  
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 100%;
+height: 645px;
+
+
+}
+.container h1{
+  margin-bottom: 20px;
+}
+.main {
+  border: 2px solid black;
+  width: 350px;
+  height: 82px;
+  background-color: white;
+  border-radius: 27px 27px 0px 0px;
+  border: none;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+.second-main {
+  margin-top: 15px;
+  border: 2px solid black;
+  width: 350px;
+  height: 300px;
+  background-color: white;
+  border-radius: 0px 0px 27px 27px;
+  border: none;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+.input{
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+
+
+}
+.input input {
+  width: 65%;
+  border-radius: 6px;
+  height: 31px;
+  border: 1px solid;
+  text-align: center;
+}
+.input input[type="text"]::placeholder {
+  text-align: center;
+  font-size: medium;
+}
+.box {
+  background-color: #ffe9b1d9;
+  height: 265px;
+  border-radius: 0 0 65px 65px;
+  padding: 32px;
+text-align: center;
+}
+.box h1{
+  text-transform: capitalize;
+  font-style: italic;
+}
+.info{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 301px;
+  margin-top:-13PX
+
+}
+
+.info div{
+  margin: 18px 0px;
+}
+.box p{
+  margin-top: 13px;
+  font-size: large;
+  
+}
+.info div i{
+
+  margin-right: 5px;
+  font-size: 28px;
+}
+.footer{
+  text-align: center;
+  margin-top: 25px;
+}
+.footer h5{
+font-size: 17px;
+}
